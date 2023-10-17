@@ -6,6 +6,9 @@ support blocks:
 - 'ExtSensorMeas'
 - 'INSNavCart'
 - 'INSNavGeod'
+- 'DiffCorrIn',
+- 'BaseStation',
+- 'RTCMDatum'
 
 ## Installation
 ```
